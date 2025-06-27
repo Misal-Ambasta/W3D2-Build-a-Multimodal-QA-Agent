@@ -1,0 +1,19 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Stop sign background -->
+  <polygon points="200,50 300,100 350,200 300,300 200,350 100,300 50,200 100,100" 
+           fill="#e74c3c" stroke="#c0392b" stroke-width="8"/>
+  
+  <!-- White border -->
+  <polygon points="200,70 285,115 330,200 285,285 200,330 115,285 70,200 115,115" 
+           fill="none" stroke="white" stroke-width="6"/>
+  
+  <!-- STOP text -->
+  <text x="200" y="220" font-family="Arial, sans-serif" font-size="60" 
+        font-weight="bold" text-anchor="middle" fill="white">STOP</text>
+  
+  <!-- Pole -->
+  <rect x="190" y="350" width="20" height="100" fill="#95a5a6" stroke="#7f8c8d" stroke-width="2"/>
+  
+  <!-- Ground shadow -->
+  <ellipse cx="200" cy="450" rx="30" ry="10" fill="#7f8c8d" opacity="0.5"/>
+</svg>

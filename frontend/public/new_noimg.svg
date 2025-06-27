@@ -1,0 +1,25 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with glitch effect -->
+  <rect x="0" y="0" width="400" height="300" fill="#f0f0f0"/>
+  
+  <!-- Glitch elements -->
+  <rect x="50" y="30" width="300" height="20" fill="#e74c3c" opacity="0.7"/>
+  <rect x="20" y="70" width="250" height="15" fill="#3498db" opacity="0.6"/>
+  <rect x="100" y="105" width="280" height="25" fill="#2ecc71" opacity="0.5"/>
+  <rect x="30" y="150" width="320" height="18" fill="#f1c40f" opacity="0.6"/>
+  <rect x="80" y="190" width="270" height="22" fill="#9b59b6" opacity="0.7"/>
+  <rect x="40" y="230" width="290" height="17" fill="#e67e22" opacity="0.6"/>
+  
+  <!-- Broken image icon -->
+  <rect x="150" y="100" width="100" height="100" fill="white" stroke="#95a5a6" stroke-width="2"/>
+  <line x1="150" y1="100" x2="250" y2="200" stroke="#95a5a6" stroke-width="2"/>
+  <line x1="250" y1="100" x2="150" y2="200" stroke="#95a5a6" stroke-width="2"/>
+  
+  <!-- Error text -->
+  <text x="200" y="230" font-family="Arial, sans-serif" font-size="16" 
+        font-weight="bold" text-anchor="middle" fill="#7f8c8d">IMAGE ERROR</text>
+  
+  <!-- Binary code background -->
+  <text x="20" y="20" font-family="monospace" font-size="10" fill="#7f8c8d" opacity="0.3">01001001 01001101 01000001 01000111 01000101</text>
+  <text x="20" y="270" font-family="monospace" font-size="10" fill="#7f8c8d" opacity="0.3">01000101 01010010 01010010 01001111 01010010</text>
+</svg>
