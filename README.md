@@ -1,9 +1,5 @@
 # 🔍 Multimodal QA Agent: Vision-Powered Question Answering
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Multimodal+QA+Agent" alt="Multimodal QA Agent Banner">
-</p>
-
 A powerful web application that combines computer vision and natural language processing to answer questions about images. Simply upload an image or provide an image URL, ask a question, and get detailed answers powered by Google's Gemini 1.5 Flash API.
 
 ## 🌟 Features
@@ -149,16 +145,9 @@ The application was tested with various image types and question formats. Here a
 
 ## 📸 Application Screenshots
 
-### Image Upload Interface
-![Image Upload Interface](https://via.placeholder.com/800x400?text=Image+Upload+Interface)
-
-### Question Input and Response
-![Question and Response](https://via.placeholder.com/800x400?text=Question+and+Response)
-
-### URL Input Mode
-![URL Input Mode](https://via.placeholder.com/800x400?text=URL+Input+Mode)
-
-*Note: Replace the placeholder images with actual screenshots of your application.*
+![screencapture-localhost-5173-2025-06-27-17_11_14](https://github.com/user-attachments/assets/34fea037-c1c5-4a66-b6fd-0cd956f25851)
+![screencapture-localhost-5173-2025-06-27-16_46_41](https://github.com/user-attachments/assets/081d0414-2a2f-4794-8b8d-0abc717d36f4)
+![screencapture-localhost-5173-2025-06-27-16_47_24](https://github.com/user-attachments/assets/182fa67d-300f-44f3-8159-d007ab019505)
 
 ---
 
